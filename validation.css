@@ -1,0 +1,8 @@
+:required {
+    background-color: green;
+}
+
+:required:invalid{
+  background-color: red;
+}
+
