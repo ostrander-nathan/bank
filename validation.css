@@ -2,7 +2,6 @@
     background-color: green;
 }
 
-:required:invalid{
-  background-color: red;
+:required:invalid {
+    background-color: red;
 }
-
